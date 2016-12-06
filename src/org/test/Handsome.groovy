@@ -4,3 +4,5 @@ def hello(name){
 def hello2(){
     echo "hello world";
 }
+
+return this;
